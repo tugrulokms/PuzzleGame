@@ -6,6 +6,10 @@ TagManager:
   tags:
   - DropValid
   - DropInvalid
+  - DropValid2H
+  - DropValid2V
+  - DropValid3H
+  - DropValid3V
   layers:
   - Default
   - TransparentFX
